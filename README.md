@@ -6,7 +6,7 @@ This evidence has been proven by [vCodes](https://vcodes.xyz) Staff for denying 
 ### Proof of No Credits on UniverseList:
 <img src="https://cdn.discordapp.com/attachments/993577486728298637/1047662499689922642/unknown.png" style="width:300px; height:700px;">
 
-## Credits
+# Credits
 Website: Not Found, Still Searching.<br>
 UniverseList: [VitalList](https://github.com/vitaldevelopment/vitallist) + [VitalList.xyz](https://vitallist.xyz)<br>
 Universe-List.js: [VitalList.js](https://www.npmjs.com/package/vitallist.js)<br>
