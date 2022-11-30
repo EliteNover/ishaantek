@@ -6,4 +6,5 @@ This evidence has been proven by [vCodes](https://vcodes.xyz) Staff for denying 
 ## Credits
 Website: Not Found, Still Searching.<br>
 UniverseList: [VitalList](https://github.com/vitaldevelopment/vitallist) + [VitalList.xyz](https://vitallist.xyz)<br>
-Universe-List.js: [VitalList.js](https://www.npmjs.com/package/vitallist.js)
+Universe-List.js: [VitalList.js](https://www.npmjs.com/package/vitallist.js)<br>
+UniverseBot: [PogyBot](https://github.com/peterhanania/Pogy)
