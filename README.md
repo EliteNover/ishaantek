@@ -1,3 +1,6 @@
+# DISCLAIMER!
+Do not go after Ishaantek or anybody mentioned in this GitHub Repository, All this information has already been reported to relevant sources and you are doing nothing useful by going after them.
+
 # Backstory & Information as to why I'm doing this
 Ishaantek has been stealing peoples codes and not crediting people for it so I've decided to compile all his websites code and put it available publicly with credits from the original source codes owner. 
 
