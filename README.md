@@ -16,6 +16,8 @@ If you feel like challenging me with such information and evidence provided, Cre
 
 ### Proof of No Credits on UniverseList:
 <img src="https://cdn.discordapp.com/attachments/993577486728298637/1047662499689922642/unknown.png" style="width:300px; height:600px;">
+<br>
+<img src="https://i.postimg.cc/pXdksT9K/image.png">
 
 # Credits
 Website: Not Found, Still Searching.<br>
