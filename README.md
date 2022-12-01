@@ -14,3 +14,6 @@ Website: Not Found, Still Searching.<br>
 UniverseList: [VitalList](https://github.com/vitaldevelopment/vitallist) + [VitalList.xyz](https://vitallist.xyz)<br>
 Universe-List.js: [VitalList.js](https://www.npmjs.com/package/vitallist.js)<br>
 UniverseBot: [PogyBot](https://github.com/peterhanania/Pogy)
+
+# Spotted something stolen by Ishaantek?
+Create an issue and I will investigate further into the matter.
