@@ -30,4 +30,6 @@ UniverseBot: [PogyBot](https://github.com/peterhanania/Pogy)
 # Spotted something stolen by Ishaantek?
 Create an issue and I will investigate further into the matter.
 
+---
+
 Thanks for listening to my TED Talk.
