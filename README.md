@@ -1,6 +1,8 @@
 # Backstory & Information as to why I'm doing this
 Ishaantek has been stealing peoples codes and not crediting people for it so I've decided to compile all his websites code and put it available publicly with credits from the original source codes owner. 
 
+People like Ishaantek put people off making projects open sourced, We need to support open sourced project developers for their hard work into creating such a project. If people want to create a Discord Bot or a website they should learn the language and take inspiration from the open source developers code. Or, You can use their open source project and **PROVIDE CREDITS**, It really supports them and the hard work they have done.
+
 This evidence has been proven by [vCodes](https://vcodes.xyz) Staff for denying his Discord Bot for cloning another GitHub Open Sourced bot and not placing credits anywhere visible. This has also been proven by owner of VitalList [BrydenIsNotSmart](https://github.com/BrydenIsNotSmart) because screenshots surfaced of the open source bot list being used without credits.
 
 ## Be Careful
