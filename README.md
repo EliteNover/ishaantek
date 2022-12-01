@@ -6,6 +6,8 @@ Ishaantek has been stealing peoples codes and not crediting people for it so I'v
 
 People like Ishaantek put people off making projects open sourced, We need to support open sourced project developers for their hard work into creating such a project. If people want to create a Discord Bot or a website they should learn the language and take inspiration from the open source developers code. Or, You can use their open source project and **PROVIDE CREDITS**, It really supports them and the hard work they have done. There are of course exceptions to providing credits such as if their projects license states you do not have to provide credits then you do not have to. However, If their license does not say anything about credits its best to provide them, If it does say you need to provide credits then **YOU MUST** provide credits on your version of the code from the open source project owner.
 
+Ishaantek also claims to be 13 years of age, However this is untrue. As he has been claiming this for over 2 years.
+
 This evidence has been proven by [vCodes](https://vcodes.xyz) Staff for denying his Discord Bot for cloning another GitHub Open Sourced bot and not placing credits anywhere visible. This has also been proven by owner of VitalList [BrydenIsNotSmart](https://github.com/BrydenIsNotSmart) because screenshots surfaced of the open source bot list being used without credits.
 
 ## Be Careful
@@ -27,3 +29,5 @@ UniverseBot: [PogyBot](https://github.com/peterhanania/Pogy)
 
 # Spotted something stolen by Ishaantek?
 Create an issue and I will investigate further into the matter.
+
+Thanks for listening to my TED Talk.
