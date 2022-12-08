@@ -1,3 +1,6 @@
+> **Update**
+> Ishaantek is now choosing to ignore any messages sent to him regarding this situation, We are still working with sources to get this sorted out quickly.
+
 # DISCLAIMER!
 Do not go after Ishaantek or anyone else mentioned in this GitHub Repository. All this information has already been reported to relevant authorities, such as Discord, DMCA, etc...  
 You are doing nothing useful by going after them.
